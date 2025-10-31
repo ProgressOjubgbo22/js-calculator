@@ -6,7 +6,7 @@ It performs basic arithmetic operations and includes features like percentage, s
 🚀 Live Demo
 
 🔗 View Demo
- (replace with your actual link once hosted)
+ https://github.com/ProgressOjubgbo22/js-calculator
 
 🎯 Features
 
